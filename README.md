@@ -1,5 +1,5 @@
-# WinLogo-Ultimate
-Windows Logo's collection. From Embedded NAVReady 7 to MS-Paint.
+# Microsoft Logos: Ultimate
+Microsoft Logos collection. From Microsoft Money to
 
 The collection is also in puplic Development. Go to releases to get your beta build now!
 
