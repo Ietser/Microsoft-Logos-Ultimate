@@ -1,7 +1,7 @@
 # Microsoft Logos: Ultimate
 Microsoft Logos collection. From Microsoft Money to Games for Windows - Live
 
-The collection is also in puplic Development. Go to releases to get your beta build now!
+The collection is in public Development. Go to releases to get your beta build now!
 
 
 
